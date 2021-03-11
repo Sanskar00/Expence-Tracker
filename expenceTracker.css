@@ -1,0 +1,16 @@
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+h3{
+    color: green;
+}
+.centre{
+    align-content: center;
+}
+button:hover{
+    background-color: darkgreen;
+}
+button{
+    color:white;
+    background-color: green;
+}
